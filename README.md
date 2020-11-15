@@ -27,11 +27,31 @@ experiment with this concept.
 
 Etherify:
 Send data by changing the electromagnetic spectrum emanated from ethernet
-interfaces. This is not pare of this repository, please see:
+interfaces. This is not part of this repository, please see:
 https://github.com/sq5bpf/etherify
 
 
 Sonify:
-Send data by morse code at ultrasound. Sample implementation is in sonify1.sh
+Send data by morse code at ultrasound. Please see:
+https://lipkoscki.com/sonify
 
+Sample implementation is in sonify1.sh
+
+Usage:
+
+./sonify1.sh 
+
+If  is  given, then the contents are sent, else "sonify 1 demo" is sent.
+
+This works by generating morse code at 21.5kHz, and playing it through the computer's speakers.
+Usually they have very good efficiency in the area between the top of the human hearing range - 
+20kHz and 24kHz - the top frequency that a sound card running at 48kHz sample rate can produce. 
+
+The frequency can be varied by changing the FREQUENCY variable in the script.
+
+Note: most animals have a greater hearing range than humans, and also greater sensitivity. 
+Please don't use this in presence of animals.
+
+
+[![Watch the sonify 1 demo](https://img.youtube.com/vi/MfOy_7g7fdI /hqdefault.jpg)](https://youtu.be/MfOy_7g7fdI )
 
