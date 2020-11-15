@@ -33,7 +33,7 @@ https://github.com/sq5bpf/etherify
 
 Sonify:
 Send data by morse code at ultrasound. Please see:
-https://lipkoscki.com/sonify
+https://lipkowski.com/sonify
 
 Sample implementation is in sonify1.sh
 
