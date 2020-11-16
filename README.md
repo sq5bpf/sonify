@@ -24,13 +24,13 @@ publish some very primitive proof of concept code, so that everyone can
 experiment with this concept.
 
 
-
+---------------------------------------------------------------------
 Etherify:
 Send data by changing the electromagnetic spectrum emanated from ethernet
 interfaces. This is not part of this repository, please see:
 https://github.com/sq5bpf/etherify
 
-
+----------------------------------------------------------------------
 Sonify:
 Send data by morse code at ultrasound. Please see:
 https://lipkowski.com/sonify
@@ -53,5 +53,5 @@ Note: most animals have a greater hearing range than humans, and also greater se
 Please don't use this in presence of animals.
 
 
-[![Watch the sonify 1 demo](https://img.youtube.com/vi/MfOy_7g7fdI /hqdefault.jpg)](https://youtu.be/MfOy_7g7fdI )
+[![Watch the sonify 1 demo](https://img.youtube.com/vi/MfOy_7g7fdI/hqdefault.jpg)](https://youtu.be/MfOy_7g7fdI )
 
