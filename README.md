@@ -15,6 +15,8 @@ Usage:
 
 If  is  given, then the contents are sent, else "sonify 1 demo" is sent.
 
+This script uses sox and alsa-utils, so make sure they are installed.
+
 This works by generating morse code at 21.5kHz, and playing it through the computer's speakers.
 Usually they have very good efficiency in the area between the top of the human hearing range - 
 20kHz and 24kHz - the top frequency that a sound card running at 48kHz sample rate can produce. 
